@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace Implementations
 {
     public class EmailService: IEmailService
-    {
+    { 
         public void Send()
         {
             throw new NotImplementedException();

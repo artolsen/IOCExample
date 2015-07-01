@@ -8,7 +8,7 @@ using Interfaces;
 namespace Implementations
 {
     public class RepositoryA : IRepository
-    {
+    { 
         private Dictionary<string, string> dataStore = new Dictionary<string, string>();
 
         public RepositoryA()
