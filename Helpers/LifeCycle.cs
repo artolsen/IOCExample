@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Helpers
 {
     public enum LifeCycle
-    { 
+    {   
         Transiant = 1,
         Singleton = 2,
     }
