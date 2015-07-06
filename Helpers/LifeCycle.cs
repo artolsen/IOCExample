@@ -10,5 +10,6 @@ namespace Helpers
     {   
         Transiant = 1,
         Singleton = 2,
-    }
+    } 
+
 }
