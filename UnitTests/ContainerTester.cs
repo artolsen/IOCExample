@@ -32,7 +32,7 @@ namespace UnitTests
             Assert.IsNotNull(repositoryA);
         }
 
-        [Test]
+        [Test] 
         public void TestCreateSinglton()
         {
             Container container = new Container();
